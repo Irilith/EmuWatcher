@@ -1,0 +1,14 @@
+{
+  "Auto_Arrange": true,
+  "Executor": "Codex",
+  "LDPlayerPath": "C:\\LDPlayer\\LDPlayer9",
+  "PlaceId": 17017769292,
+  "Auto_Open_Ld": true,
+  "Auto_Send_Webhook": false,
+  "Webhook_URL": "Your Webhook URL",
+  "Real_Time_Watch": false,
+  "Run_Sequential": true,
+  "Sequential_Interval": 60,
+  "Watch_Interval": 80,
+  "Watch_Using_Script": true
+}
